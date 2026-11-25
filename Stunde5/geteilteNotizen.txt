@@ -1,0 +1,13 @@
+<table> — table / Tabelle
+
+<thead> — table head / Tabellenkopf
+
+<tbody> — table body / Tabellenkörper
+
+<tr> — table row / Tabellenzeile
+
+<th> — table header / Tabellenüberschrift
+
+<td> — table data / Tabellendaten (Datenzelle)
+
+<pre> — preformatted / Vorformatierter Text
